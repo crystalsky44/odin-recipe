@@ -1,12 +1,27 @@
 body{
     background-color: lightgrey;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .home{
     background-color: aquamarine;
-    font-family: Arial, Helvetica, sans-serif;
 }
 
-ul{
-    background-color: lightyellow;
+h1{
+    text-align: center;
+}
+
+.description{
+    background-color: white;
+    font-weight: 200;
+}
+
+.ingredients{
+    background-color: lightsalmon;
+    font-weight: lighter;
+}
+
+.steps{
+    background-color: lightblue;
+    font-weight: bold;
 }
