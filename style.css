@@ -9,19 +9,25 @@ body{
 
 h1{
     text-align: center;
+    border: 2px dashed blue;
+    padding: 10px 5px;
 }
 
 .description{
     background-color: white;
     font-weight: 200;
+    padding-left: 10px;
 }
 
 .ingredients{
     background-color: lightsalmon;
     font-weight: lighter;
+    padding-left: 10px;
 }
 
 .steps{
+    color: brown;
     background-color: lightblue;
     font-weight: bold;
+    padding-left: 10px;
 }
